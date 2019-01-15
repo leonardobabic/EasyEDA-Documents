@@ -1,17 +1,17 @@
-#Great tools must have awesome documents.
+#Izvrsni alati moraju imati sjajne dokumente.
 
 ## Online Tutorial
- The place to go for help on learning to drive EasyEDA:
+ Mjesto za pomoć pri učenju korištenja EasyEDA:
 [EasyEDA tutorial](https://easyeda.com/Doc/Tutorial/)
 
-##EasyEDA Open File Format
- Information on the open file format used throughout EasyEDA to help you translate EasyEDA design files to formats for other EDA tools, or to translate files from other EDA tools to EasyEDA format:  
- [EasyEDA Open File Format](https://easyeda.com/Doc/Open-File-Format/)
+##EasyEDA Format Otvorenih Datoteka
+ Informacije o formatu otvorenih datoteka koje se koriste u EasyEDA-i za prevođenje EasyEDA datoteka dizajna u formate za druge EDA alate ili za prevođenje datoteka s drugih EDA alata u EasyEDA format:  
+ [EasyEDA Format Otvorenih Datoteka](https://easyeda.com/Doc/Open-File-Format/)
 
-## Simulation eBook
- Detailed tutorials and live examples to learn about using the simulation features of EasyEDA:
- [Simulation eBook](https://easyeda.com/Doc/Simulation-eBook/)
+## Simulacijska eKnjiga
+ Detaljni vodiči i primjeri uživo kako bi se upoznali s korištenjem simulacijskih značajki EasyEDA:
+ [Simulacijska eKnjiga](https://easyeda.com/Doc/Simulation-eBook/)
  
-## GitHub Repository
- Something missing or needs improving in the EasyEDA documentation? Just head over to where we keep it, sign up for a free GitHub account and start making your suggestions and edits:
- [GitHub Repository](https://github.com/dillonHe/EasyEDA-Documents)
+## GitHub Repozitorij
+ Nešto nedostaje ili je potrebno poboljšati dokumentaciju EasyEDA? Samo prijeđite na mjesto gdje ga čuvamo, prijavite se za besplatni GitHub račun i počnite stvarati svoje prijedloge i uređivanja:
+ [GitHub Repozitorij](https://github.com/dillonHe/EasyEDA-Documents)
